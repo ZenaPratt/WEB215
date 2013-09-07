@@ -1,0 +1,81 @@
+﻿// multiple choice
+
+::Question 1::	A complete JavaScript implementation is made up of three
+		distinct parts.  Which of the following is not part of the
+		three? (JavaScript for Web Developers, Chapter 1, Javascript
+		Implementations):
+		{
+		~The Core (ECMAScript)
+		=Application Program Interface (API)
+		~The Document Object Model (DOM)
+		~The Browser Object Model (BOM)
+		}
+
+// multiple choice
+
+::Question 2::	There are six attributes for the <script> element. Which of
+		the following is not an attribute? (JavaScript for Web 
+		Developers, Chapter 2, The <Script> Element)
+		{
+		~Async
+		~Charset
+		=Var 
+		~Defer      
+		~Language
+		~Src
+		~Type
+		}
+
+// multiple choice
+
+::Question 3::	Which sentence is not true of the <noscript> element?
+		(JavaScript for Web Developers, Chapter 2, The <script> 
+		Element)?
+		{
+		~This element can contain any HTML elements, aside 
+		 from <script>, that can be included in the document 			   		 <body>.
+
+		~The <noscript> element was created to provide alternate 
+		 content for browses without Javascript.
+
+		=Any content contained in the <noscript> element will be 		   		 rendered if scripting is enabled on the browser.
+
+		~By using the <noscript> element, you can specify that 
+		 content is to be shown only if scripting support isn’t 
+		 available on the browser. 
+		}
+
+// multiple choice
+
+::Question 4::	Which of the following is not true of an identifier?
+		(JavaScript for Web Developers,Chapter 3, Language Basics 
+		(Syntax) - identifiers)
+ 		{
+		~An identifier is the name of a variable, function, property, 
+		 or function argument. 
+
+		=Letters in an identifier may not include extended ASCII or
+		 Unicode letter characters such as À and Æ.
+
+		~An identifier may be one or more characters.
+
+		~The first character of an identifier must be a letter, an
+		 underscore (_), or a dollar sign ($).
+
+		~All other characters may be letters, underscores, dollar 
+		 signs, or numbers.
+		}
+
+// fill-in-the-blank
+
+::Question 5::	There is one complex data type called {~Undefined ~Null 
+		=Object ~Boolean ~Number ~String}, which is an unordered 
+		list of name-value pairs.
+
+		
+
+
+
+
+
+

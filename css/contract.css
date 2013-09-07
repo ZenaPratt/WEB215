@@ -1,0 +1,52 @@
+
+	body 
+	{ 
+	font-family:"Palatino Linotype", Palatino, Georgia, Garamond, serif;
+	background: -linear-gradient(left top, #66004C 35%, #FFCCFF 90%);
+	background: -o-linear-gradient(left top, #66004C 35%, #FFCCFF 90%);
+	background: -moz-linear-gradient(left top, #66004C 35%, #FFCCFF 90%);
+	background: -webkit-linear-gradient(left top, #66004C 35%, #FFCCFF 90%);
+	background: -ms-linear-gradient(left top, #66004C 35%, #FFCCFF 90%);
+	background: -webkit-gradient(linear,left top,right bottom,color-stop(0.35, #66004C),color-stop(0.9, #FFCCFF));
+	} 
+	hr 
+	{
+	height:5px;
+	color:#000000;
+	background:#000000;
+	}
+	h1 
+	{
+	text-align:center;
+	font-size: 26px;
+	color:#FFFFFF;
+	}
+	h2 
+	{
+	text-align:center;
+	font-style:italic;
+	font-size: 20px;
+	}
+	h3 
+	{
+	color: white;
+	font-weight:bold;
+	}
+	#contract_form
+	{
+	width:698px;
+	margin:auto;
+	padding:25px;
+	font-weight:bold;
+
+		background: -linear-gradient(left top, #DB4DB8 35%, #EEEEEE 90%);
+		background: -o-linear-gradient(left top, #DB4DB8 35%, #EEEEEE 90%);
+		background: -moz-linear-gradient(left top, #DB4DB8 35%, #EEEEEE 90%);
+		background: -webkit-linear-gradient(left top, #DB4DB8 35%, #EEEEEE 90%);
+		background: -ms-linear-gradient(left top, #DB4DB8 35%, #EEEEEE 90%);
+		background: -webkit-gradient(linear,left top,right bottom,color-stop(0.35, #DB4DB8),color-stop(0.9, #EEEEEE));
+	}
+	p
+	{
+	padding:0px 45px 0px 45px;
+	}
